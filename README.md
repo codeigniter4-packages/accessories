@@ -1,1 +1,2 @@
 # accessories
+- create migtation command
